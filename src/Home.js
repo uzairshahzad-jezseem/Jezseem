@@ -5,7 +5,7 @@ const Home = () => {
         <div className="h-screen flex justify-center items-center">
             <div className='bg-white p-[40px_40px_60px_40px] w-[380px] rounded-lg shadow-sm border border-gray-300 text-left max-auto'>
                 <p className="text-base font-normal ">Please enter your details</p>
-                <h3 className="text-[40px] font-medium mb-5">Welcome back</h3>
+                <h3 className="text-[40px] font-medium mb-5">Welcome Back</h3>
 
                 <input type="email" placeholder="Email address" className="input w-[100%] p-4 mb-4 border border-gray-300 rounded-md text-sm" />
                 <input type="password" placeholder="Password" className="input w-[100%] p-4 mb-4 border border-gray-300 rounded-md text-sm" />
